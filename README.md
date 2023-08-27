@@ -10,7 +10,7 @@
 - 📫 How to reach me **Ninjaagency@proton.me**
 - 👨‍💻 All of my projects are available at **https://github.com/marouananouar?tab=repositories**
 - 📝 I regularly write articles on **https://www.cyberblog.cf/**
-- 📄 Know about my experiences **https://blackhorseteams.github.io/Home/**
+- 📄 Know about my experiences **https://linktr.ee/ninjasquad.agency**
 - ⚡ Fun fact **I Think I am Funny**
 
 <div> <a href="https://github.com/ninjasquadagency" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
