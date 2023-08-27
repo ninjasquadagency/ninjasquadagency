@@ -83,9 +83,60 @@
 <img src="https://miro.medium.com/v2/resize:fit:600/1*mEA3d7BlSkj1WJpmCGc0jA.png" alt="Offensive Security Experienced Penetration Tester" width="40" height="40"/>
   <p align="center">######### We are Now Cyber Security RED TEAM ##########</p>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/marouananouar/marouananouar/assets/82327262/f9d31945-71f2-4570-9f67-f29cf21c9361" alt="RoadMap" width="100%"/></a> </p>
-<hr> 
+<p align="center">
+  <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
+  <img src="https://github.com/marouananouar/marouananouar/assets/82327262/f9d31945-71f2-4570-9f67-f29cf21c9361" alt="RoadMap" />
+<img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
+</p>
+
 <!----    END Cybersecurity Skils  ---->
+
+<!----    Start Back-end Skils  ---->
+<h3 align="center">Where Start Learning BACK-END Developement ?"</h3>
+<hr> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/96/java_22523.png" alt="JAVA" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+</p>
+<hr>
+<h3 align="left">Frameworks :</h3>
+<p align="left">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/django_plain_logo_icon_146558.png" alt="Django" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/next_js_logo_icon_145038.png" alt="next.js" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="springboot" width="65" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+</p>
+<hr>
+<h3 align="left">DataBases :</h3>
+<p align="left">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongoDB" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgre SQL" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/oracle_original_logo_icon_146401.png" alt="oracle" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" width="40" height="40"/>
+<hr> 
+<h3 align="left">APIs :</h3>
+<p align="left">
+<img src="https://www.ictshore.com/wp-content/uploads/2018/08/sfw0002-01-REST_Architecture.png" alt="REST" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/json_logo_icon_168490.png" alt="JSON" width="65" height="40"/>
+<img src="https://xpertlab.com/wp-content/uploads/2020/12/icon-soap.png" alt="SOAP" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/a4d181930f0d570c168b1eed0ebf46f577891e93047afd1881064b638edf095e/68747470733a2f2f6873746f2e6f72672f776562742f6c6a2f73382f65762f6c6a7338657673687a6a7675686b6d6a5f333235757179637675382e706e67" alt="RPC" width="40" height="40"/>
+<hr>
+<h3 align="left">Tools :</h3>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="git-github" width="40" height="40"/>
+<img src="https://www.femto-st.fr/sites/default/files/styles/full_width/public/articles/docs/cloud-computing_0.png?itok=PExVfEfE" alt="Cloud computing" width="40" height="40"/>
+<img src="https://www.deviqa.com/static/images/posts/IsJMeterTheBestOptionForEfficientWebTesting/IsJMeterTheBestOptionForEfficientWebTesting01.jpg?webp" alt="Testing" width="40" height="40"/>
+<hr>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
+  <img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" />
+<img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'></p>
+<!----    End Back-end Skils  ---->
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjasquadagency&layout=compact&theme=" alt=ninjasquadagency />
 
