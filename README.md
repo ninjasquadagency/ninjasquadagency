@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm @Mr.Marouan From Ninja Squad.</h1>
 <h3 align="center">We are a Digital Agency, Help You To Grow Your Business Online.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhorseteams&label=Profile%20views&color=0e75b6&style=flat" alt="blackhorseteams" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjasquadagency&label=Profile%20views&color=0e75b6&style=flat" alt="ninjasquadagency" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhorseteams&theme=" alt="blackhorseteams" /></a> </p>
 
